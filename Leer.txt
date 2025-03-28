@@ -1,7 +1,7 @@
 El para ejecutar el programa favor seguir los sigueintes pasos:
 
 1-En la carpeta donde se manejará todo el proyecto crear una carpeta llamada "styles" y otra llamada "images"
-2-Dentro de images copiar las 4 imagenes.
+2-Dentro de images copiar las 5 imagenes.
 3-Dentro de styles copiar el archivo "stylesPortafolio.css"
 4-Finalmente copiar el archivo "indexPortafolio.html" en la carpeta principal junto a las otras carpetas creads.
 De esta manera ya se podrán ver la pagina web en el navegador con las imagenes y funciones css correctamente.
